@@ -187,7 +187,7 @@ h5 {
     background-color: gold;
     margin-top: -10%;
     width: 6vw;
-    height: 3vw;
+    height: 2vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -195,13 +195,14 @@ h5 {
 }
 
 .cena {
-    font-size: 5vh;
+    font-size: 2vh;
     display: flex;
     justify-content: center;
     transform: rotate(5deg);
     text-align: center;
     transition: all 100ms;
 }
+
 
 .cena:hover {
     transform: rotate(-10deg);
